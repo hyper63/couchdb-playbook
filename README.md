@@ -1,0 +1,3 @@
+# README
+
+CouchDB Cluster Playbook
